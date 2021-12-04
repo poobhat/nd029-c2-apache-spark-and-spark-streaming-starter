@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-12-04T01:30:27.346Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="naRfkcijwic9zuo-gcxi" version="15.8.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-04T01:43:35.192Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="VT92BelwuRMeIwP_3pYi" version="15.8.8" type="github">
   <diagram id="1B-PBqRpE1d1nzgjM34z" name="Page-1">
-    <mxGraphModel dx="2270" dy="1723" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2637" dy="1893" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -179,6 +179,24 @@
         </mxCell>
         <mxCell id="lWq34r1TajdIWoLoY4OA-74" value="&lt;span style=&quot;font-family: &amp;#34;jetbrains mono&amp;#34; , &amp;#34;consolas&amp;#34; , &amp;#34;liberation mono&amp;#34; , &amp;#34;menlo&amp;#34; , &amp;#34;courier&amp;#34; , monospace ; font-size: 12.6px ; text-align: left ; background-color: rgba(212 , 222 , 231 , 0.098)&quot;&gt;Risk Score&lt;br&gt;Email&lt;br&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fontColor=default;" vertex="1" parent="lWq34r1TajdIWoLoY4OA-72">
           <mxGeometry x="80.78" y="62.5" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="lWq34r1TajdIWoLoY4OA-79" value="" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;rounded=1;labelBackgroundColor=none;fontColor=default;strokeColor=default;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="590" y="-590" width="290" height="440" as="geometry" />
+        </mxCell>
+        <mxCell id="lWq34r1TajdIWoLoY4OA-82" value="" style="endArrow=classic;html=1;rounded=0;fontColor=default;entryX=0.75;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="lWq34r1TajdIWoLoY4OA-79" target="lWq34r1TajdIWoLoY4OA-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="510" y="10" as="sourcePoint" />
+            <mxPoint x="560" y="-40" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="570" y="-30" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lWq34r1TajdIWoLoY4OA-83" value="&lt;pre style=&quot;box-sizing: border-box ; margin-top: 16px ; margin-bottom: 16px ; font-stretch: normal ; line-height: 1.45 ; padding: 16px ; overflow: auto ; border-radius: 3px ; background-color: rgba(212 , 222 , 231 , 0.098)&quot;&gt;&lt;font face=&quot;jetbrains mono, consolas, liberation mono, menlo, courier, monospace&quot;&gt;&lt;span style=&quot;font-size: 11.9px&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/font&gt;&lt;/pre&gt;&lt;pre style=&quot;box-sizing: border-box ; margin-top: 16px ; margin-bottom: 16px ; font-stretch: normal ; line-height: 1.45 ; padding: 16px ; overflow: auto ; border-radius: 3px ; background-color: rgba(212 , 222 , 231 , 0.098)&quot;&gt;&lt;font face=&quot;jetbrains mono, consolas, liberation mono, menlo, courier, monospace&quot;&gt;&lt;span style=&quot;font-size: 11.9px&quot;&gt;{&quot;key&quot;:&quot;__Customer__&quot;,&lt;br&gt;&quot;existType&quot;:&quot;NONE&quot;,&lt;br&gt;&quot;Ch&quot;:false,&lt;br&gt;&quot;Incr&quot;:false,&lt;br&gt;&quot;zSetEntries&quot;:[{&lt;br&gt;&quot;element&quot;:&lt;br&gt;&quot;__{&quot;customerName&quot;:&quot;Sam Test&quot;,&lt;br&gt;&quot;email&quot;:&quot;sam.test@test.com&quot;,&lt;br&gt;&quot;phone&quot;:&quot;8015551212&quot;,&lt;br&gt;&quot;birthDay&quot;:&quot;2001-01-03&quot;}&quot;,&lt;br&gt;&quot;Score&quot;:0.0&lt;br&gt;}__],&lt;br&gt;&quot;zsetEntries&quot;:[{&lt;br&gt;&quot;element&quot;:&lt;br&gt;&quot;{&quot;customerName&quot;:&quot;Sam Test&quot;,&lt;br&gt;&quot;email&quot;:&quot;sam.test@test.com&quot;,&lt;br&gt;&quot;phone&quot;:&quot;8015551212&quot;,&lt;br&gt;&quot;birthDay&quot;:&quot;2001-01-03&quot;}&quot;,&lt;br&gt;&quot;score&quot;:0.0&lt;br&gt;}]&lt;br&gt;}&lt;/span&gt;&lt;span style=&quot;font-size: 0.85em&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/font&gt;&lt;/pre&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="600" y="-410" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="lWq34r1TajdIWoLoY4OA-84" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontColor=default;" edge="1" parent="1" source="lWq34r1TajdIWoLoY4OA-83" target="lWq34r1TajdIWoLoY4OA-83">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
